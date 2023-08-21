@@ -1,0 +1,2 @@
+# NewProject
+Local coding class
